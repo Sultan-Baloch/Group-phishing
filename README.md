@@ -1,14 +1,14 @@
-# fb-group-hack
+# Group-Phishing
 #This only for testing
 # <Installation
 
 <pre><span class="pl-c"></span> #command </span>
 
-git clone https://github.com/AL-AlamySploit/fb-group-hack or download zip
+git clone https://github.com/Sultan-Baloch/Group-phishing
 
 
- cd fb-group-hack
+ cd Group-phishing
 
  ls
 
- python2 fb-group-hack.py</span></pre>
+ python2 grouphack.py</span></pre>
